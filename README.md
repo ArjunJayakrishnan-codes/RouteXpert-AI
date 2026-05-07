@@ -270,15 +270,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 👤 Author
-
-**Tirtha Nath** ([@TIRTHANATH20](https://github.com/TIRTHANATH20))
-- Computer Science Engineer
-- AI/ML Enthusiast
-- Traffic Systems Research
-
----
-
 ## 🙏 Acknowledgments
 
 - Built with [Streamlit](https://streamlit.io/) for interactive visualization
