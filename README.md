@@ -268,33 +268,8 @@ streamlit cache clear
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
----
-
-## 👤 Author
-
-**Tirtha Nath** ([@TIRTHANATH20](https://github.com/TIRTHANATH20))
-- Computer Science Engineer
-- AI/ML Enthusiast
-- Traffic Systems Research
-
----
-
-## 🙏 Acknowledgments
+--
 
 - Built with [Streamlit](https://streamlit.io/) for interactive visualization
 - Graph algorithms powered by [NetworkX](https://networkx.org/)
 - Inspired by real-world traffic management challenges
-
----
-
-## 📮 Contact & Support
-
-- **GitHub**: [@TIRTHANATH20](https://github.com/TIRTHANATH20)
-- **Issues**: [Report bugs here](https://github.com/TIRTHANATH20/RouteXpert-AI/issues)
-- **Email**: [tirthanath2006@gmail.com](mailto:tirthanath2006@gmail.com)
-
----
-
-<p align="center">
-  <sub>🚦 Making traffic smarter, one intersection at a time</sub>
-</p>
