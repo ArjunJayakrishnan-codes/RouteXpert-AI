@@ -268,15 +268,8 @@ streamlit cache clear
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
----
-
-## 🙏 Acknowledgments
+--
 
 - Built with [Streamlit](https://streamlit.io/) for interactive visualization
 - Graph algorithms powered by [NetworkX](https://networkx.org/)
 - Inspired by real-world traffic management challenges
-
-
-<p align="center">
-  <sub>🚦 Making traffic smarter, one intersection at a time</sub>
-</p>
