@@ -65,7 +65,7 @@ def run_simulation():
         phase = "Normal"
         corridor = []
 
-        # 1. Emergency Preemption (Absolute Priority)
+        # 1. Emergency Preemption Module (Absolute Priority)
         if emergency_flag and cycle <= 3:
             phase = "Emergency"
             try:
